@@ -1,2 +1,4 @@
 this is my first program
 this is my second program
+this is my third program
+git push -u origin master
